@@ -1,4 +1,4 @@
-import logo from '../../static/image/svg/logo.svg';
+import logo from '../../assets/image/svg/logo.svg';
 import style from "../../module/scss/global.module.scss"
 import { css } from "./css"
 const Home = () => {
